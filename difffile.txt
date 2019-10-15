@@ -1,10 +1,10 @@
 This is the creation of a new file.
 This contents will likely be replaced
 It's quite the act of joy
-And so it is here that I add text
-to these files
-such that they may show a record
-of slight changes that 'another user'
+Blah blah blah blah blah blah blah
+If this works!!!!
+Then I finally get to go to sleep.
+And then I have classes int hje morning but whatever
 will have 'made' in a real repository.
 In this way I can try to simulate a real change.
 Otherwise I don't know what iw ould be doing.
