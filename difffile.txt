@@ -1,10 +1,13 @@
 This is the creation of a new file.
 This contents will likely be replaced
 It's quite the act of joy
-that I do not necessarily enjoy the 
-act of *****.
-This is me from a new account as I try
-to see what will happen as I edit this
+And so it is here that I add text
+to these files
+such that they may show a record
+of slight changes that 'another user'
+will have 'made' in a real repository.
+In this way I can try to simulate a real change.
+Otherwise I don't know what iw ould be doing.
 file. 
 my files such that I can understand
 why I must do such a thing in this time
