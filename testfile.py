@@ -10,5 +10,7 @@ MORE NEW LINES
 Additional Lines HERERERERE
 
 3rd attempt, more lines
-
-4th Attempt, more more lines
+def main():
+    print("HelloWorld")
+    return 3
+Attempt, more more lines
